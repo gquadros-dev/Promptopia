@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nome do projeto
 
-## Getting Started
+![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-First, run the development server:
+<img src="https://ibb.co/rcn6xCm" alt="Exemplo imagem">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+> Esse foi um projeto desenvolvido em um Crash Course de NextJS.
+
+## 💻 Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+- Você instalou a versão mais recente de `NodeJS`
+- Você tem uma máquina `Windows / Linux`.
+- Você leu `Getting start with NextJS`.
+
+## 🚀 Instalando Promptopia
+
+Para instalar o Promptopia, siga estas etapas:
+
+Linux e Windows:
+
+```
+Instale o NodeJS em sua última versão;
+Baixe os arquivos do projeto em sua máquina;
+Acesse o diretório pelo terminal e use o comando "npm install";
+Depois disso é só usar o comando "npm run dev" e o projeto estará funcionando;
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ☕ Usando Promptopia
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Para usar Promptopia, siga estas etapas:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```
+Para usar o Promptopia você deve se logar com a conta do Google, já que ele utiliza OAuth2.
+Quando logado você poderá criar "prompts" para IA's e compartilhar com a comunidade, assim como você pode pegar emprestado prompts de outras pessoas!
+```
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 🤝 Colaboradores
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/gquadros-dev" width="100px;" alt="Foto do GQuadros-dev"/><br>
+        <sub>
+          <b>Gabriel Quadros</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-## Deploy on Vercel
+## 😄 Seja um dos contribuidores
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Quer fazer parte desse projeto? Clique [AQUI](https://wa.me/5549999415495) e entre em contato comigo!
