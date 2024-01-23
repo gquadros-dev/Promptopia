@@ -8,7 +8,7 @@
 
 <img src="https://i.ibb.co/b2pBsSP/promptopia.png" alt="Exemplo imagem">
 
-> Esse foi um projeto desenvolvido em um Crash Course de NextJS.
+> Esse foi um projeto desenvolvido em um Crash Course de NextJS, criando uma comunidade para compartilhar prompts de IA generativa.
 
 ## 💻 Pré-requisitos
 
