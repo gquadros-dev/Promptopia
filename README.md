@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="https://ibb.co/rcn6xCm" alt="Exemplo imagem">
+<img src="https://i.ibb.co/b2pBsSP/promptopia.png" alt="Exemplo imagem
 
 > Esse foi um projeto desenvolvido em um Crash Course de NextJS.
 
